@@ -1,3 +1,5 @@
+Repositório utilizado para os exercícios/trabalhos da matéria de DataOps do MBA FIAP.
+
 ALINE MAYARA COQUETO LIMA - 336704
 
 FELIPE LEAL COSTA - 337491
