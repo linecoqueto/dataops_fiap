@@ -8,3 +8,8 @@ HERALDO ARAUJO DA SILVA - 338426
 
 STEPHANY DE CAMILO E ALONSO - 337136
 
+Utilizando:
+
+- Microsoft SQL Server
+- Talend Open Studio for Big Data 7.3
+- Airflow
